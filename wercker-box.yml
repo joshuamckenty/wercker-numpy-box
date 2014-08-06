@@ -1,6 +1,6 @@
 name: numpy-cf-box
 version: 0.0.1
-inherits: joshuamckenty/cloud-foundry-box@0.0.2
+inherits: joshuamckenty/cloud-foundry-box@0.0.1
 type: main
 platform: ubuntu@12.04
 description: Numpy installed python env for CF pushed apps
