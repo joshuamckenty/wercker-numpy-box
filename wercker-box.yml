@@ -9,3 +9,4 @@ keywords:
     - python
 script: |
     sudo pip install numpy
+    echo "ok."
